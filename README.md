@@ -1,16 +1,14 @@
 # flutter_scrolling_listview
+# Baggio Deroger - Assignment Report
 
-A new Flutter project.
+=>Creating the starter Flutter app
+![Create](images/create.PNG)
 
-## Getting Started
+=>Using an external package
+![Using external package](images/Using-external-package.PNG)
 
-This project is a starting point for a Flutter application.
+=>Adding a stateful widget
+![Add stateful widget](images/add-stateful-widget.PNG)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+=>Creating an infinite scrolling ListView
+![Scrolling-listView](images/Scrolling-listView.PNG)
